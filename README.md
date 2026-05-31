@@ -140,5 +140,6 @@ This project is intentionally scoped to the internship task, but here's what wou
 ## Author
 
 **AYUSH KUMAR SINGH**
+
 AI & ML Intern — Maincrafts Technology
 
